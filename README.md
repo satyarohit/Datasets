@@ -1,11 +1,11 @@
 # Datasets
-Find some usefull dataseta!!
+Find some usefull datasets!!
 
 SOME USEFULL CHEATSHEET LINKS FOR MACHINE LEARNING!!
 
 
     Jupyter Notebook
-    Link: <https://datacamp-community-prod.s3.amazonaws.com/48093c40-5303-45f4-bbf9-0c96c0133c40>
+    [Link:](https://datacamp-community-prod.s3.amazonaws.com/48093c40-5303-45f4-bbf9-0c96c0133c40)
     Python Seaborn: Statistical Data Visualization
     Link: https://datacamp-community-prod.s3.amazonaws.com/f9f06e72-519a-4722-9912-b5de742dbac4
     PySpark Cheat Sheet: Spark DataFrames in Python
