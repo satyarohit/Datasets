@@ -2,6 +2,7 @@
 Find some usefull datasets!!
 
 SOME USEFULL CHEATSHEET LINKS FOR MACHINE LEARNING!!
+Please copy and paste the link to your browser if direct click doesn't work!
 
 
     Jupyter Notebook
